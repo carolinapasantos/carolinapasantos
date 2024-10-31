@@ -4,7 +4,6 @@ Oi, tudo bem? Eu sou a
 <img align="right" alt="GIF animado" height="300px" src="https://media.giphy.com/media/IRQUYBsSzFNOq0RNtw/giphy.gif">
 </h1>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F718DA&background=22076E00&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%22Bem-vindo(a)!+Bora+contribuir%3F)](https://git.io/typing-svg)
 
 <p align="center">
   Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por Tecnologia ❤
