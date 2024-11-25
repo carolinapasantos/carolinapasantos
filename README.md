@@ -1,4 +1,4 @@
-## Oieeee, eu sou a Carol! 👩🏻‍💻
+## Oieeee, eu sou a Carol! Seja bem vindo(a) 👩🏻‍💻
 <div>
   <a href="https://instagram.com/carolsantos_dev" target="_blank">  
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
