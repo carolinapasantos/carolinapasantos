@@ -43,4 +43,8 @@
   <img src="https://github.com/user-attachments/assets/e7e5b5ac-54d7-46c5-b44e-6562d1d84e08" alt="PacMan" width="600">
 </div>
 
+<br> <!-- Adicionando um espaçamento entre as divs -->
 
+<div>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
