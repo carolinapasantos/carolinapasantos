@@ -1,5 +1,21 @@
 ## Oieeee, eu sou a Carol!
 
+<br> <!-- Adicionando um espaçamento entre as divs -->
+
+<div>
+  <a href="https://instagram.com/carolsantos_dev" target="_blank">  
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.threads.net/carolsantos_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-1DA1F2?style=for-the-badge&logo=threads&logoColor=white" target="_blank">
+  </a>  
+  <a href="https://www.linkedin.com/in/carolinapasantos" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<br> <!-- Adicionando um espaçamento entre as divs -->
+
 <div>
   Após uma trajetória na área de Administração, decidi direcionar minha carreira para a Tecnologia da Informação e estou com foco em Programação de Sistemas e Desenvolvimento Back-End. Atualmente, estou mergulhando em novos conhecimentos e habilidades com o objetivo de me tornar uma profissional completa na área de TI.
 </div>
@@ -22,17 +38,4 @@
   <img src="https://github.com/user-attachments/assets/e7e5b5ac-54d7-46c5-b44e-6562d1d84e08" alt="PacMan" width="600">
 </div>
 
-<br> <!-- Adicionando um espaçamento entre as divs -->
-
-<div>
-  <a href="https://instagram.com/carolsantos_dev" target="_blank">  
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.threads.net/carolsantos_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-1DA1F2?style=for-the-badge&logo=threads&logoColor=white" target="_blank">
-  </a>  
-  <a href="https://www.linkedin.com/in/carolinapasantos" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
 
