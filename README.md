@@ -14,7 +14,7 @@
 <br> <!-- Adicionando um espaçamento entre as divs -->
 
 <div>
-  Após uma trajetória na área de Administração, decidi direcionar minha carreira para a Tecnologia da Informação e estou com foco em Programação de Sistemas e Desenvolvimento Back-End. Atualmente, estou mergulhando em novos conhecimentos e habilidades com o objetivo de me tornar uma profissional completa na área de TI.
+  Após anos decidi migrar para a Tecnologia da Informação e estou com foco em Programação de Sistemas e Desenvolvimento Back-End. Atualmente, estou mergulhando em novos conhecimentos e habilidades com o objetivo de me tornar uma profissional completa na área de TI.
 </div>
 
 <br> <!-- Adicionando um espaçamento entre as divs -->
