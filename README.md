@@ -1,4 +1,4 @@
-## Oieeee, eu sou a Carol! Seja bem vindo(a) 👩🏻‍💻
+## Oieeee, seja bem vindo(a)!  Eu sou a Carol! 👩🏻‍💻
  <div>
   <a href="https://github.com/carolinapasantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinapasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
