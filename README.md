@@ -1,12 +1,13 @@
 ## Oieeee, seja bem vindo(a)!  Eu sou a Carol! 👩🏻‍💻
 
 <div> <!-- Total de projetos -->
-  <a href="https://github.com/carolinapasantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinapasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinapasantos&layout=compact&langs_count=7&theme=dracula"/>
-  </a> 
-</div> 
-    
+  <a id="github-link" href="https://github.com/carolinapasantos" target="_blank">
+    <img id="stats-image" height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinapasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img id="langs-image" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinapasantos&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+
 <br> <!-- Adicionando um espaçamento entre as divs -->
 
 <div> <!-- Cards das redes sociais -->
