@@ -1,5 +1,8 @@
-## Oieeee, seja bem vindo(a)!  Eu sou a Carol! 👩🏻‍💻
+<div align="center">
+  Oieeee, Seja Bem Vindo(a), eu sou a Carol!👩🏻‍💻
+</div>
 
+<br> <!-- Adicionando um espaçamento entre as divs -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinapasantos&layout=compact&theme=cobalt&langs" alt="Top Langs" width="350" style="display: inline-block; margin-right: 20px;" />
@@ -30,11 +33,16 @@
 
 <div> <!-- Sobre o que estou aprendendo -->
 <p><strong>O que estou aprendendo:</strong></p>
+<p>🗄️ Bancos de Dados: Aprendendo a otimizar, consultar e manter bases de dados com eficiência.</p>
+<p>🖥️ Infraestrutura e Performance: Buscando melhorar a infraestrutura das aplicações e otimizar seu desempenho.</p>
+<p>🔐 Segurança da Informação: Focando em proteger dados e sistemas contra ameaças cibernéticas, implementando melhores práticas de segurança e criptografia.</p>
+
+  <br> <!-- Adicionando um espaçamento entre as divs -->
+
+<p><strong>O que tenho interesse:</strong></p>
 <p>💻 Desenvolvimento de Software: Aprendendo a criar soluções tecnológicas eficientes e escaláveis.</p>
 <p>🛠️ Desenvolvimento de APIs: Focando na criação de interfaces robustas e escaláveis.</p>
 <p>🔄 Automação de Processos: Explorando formas de otimizar tarefas repetitivas e aumentar a produtividade.</p>
-<p>🗄️ Bancos de Dados: Aprendendo a otimizar, consultar e manter bases de dados com eficiência.</p>
-<p>🖥️ Infraestrutura e Performance: Buscando melhorar a infraestrutura das aplicações e otimizar seu desempenho.</p>
 <p>📅 Metodologias Ágeis: Usando abordagens ágeis para entregar soluções rápidas e de qualidade.</p>
 <p>🔐 Segurança da Informação: Focando em proteger dados e sistemas contra ameaças cibernéticas, implementando melhores práticas de segurança e criptografia.</p>
 </div>
