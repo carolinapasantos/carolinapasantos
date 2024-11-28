@@ -1,13 +1,14 @@
 ## Oieeee, seja bem vindo(a)!  Eu sou a Carol! 👩🏻‍💻
 
-<div>
 
-</div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinapasantos&layout=compact&theme=cobalt&langs" alt="Top Langs" width="350" style="display: inline-block; margin-right: 20px;" />
+  
+  </div>
 
 <br> <!-- Adicionando um espaçamento entre as divs -->
 
-<div> <!-- Cards das redes sociais -->
+<div align="center"> <!-- Cards das redes sociais -->
   <a href="https://instagram.com/carolsantos_dev" target="_blank">  
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
