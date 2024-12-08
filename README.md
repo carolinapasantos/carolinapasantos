@@ -44,7 +44,6 @@
 <p>🛠️ Desenvolvimento de APIs: Focando na criação de interfaces robustas e escaláveis.</p>
 <p>🔄 Automação de Processos: Explorando formas de otimizar tarefas repetitivas e aumentar a produtividade.</p>
 <p>📅 Metodologias Ágeis: Usando abordagens ágeis para entregar soluções rápidas e de qualidade.</p>
-<p>🔐 Segurança da Informação: Focando em proteger dados e sistemas contra ameaças cibernéticas, implementando melhores práticas de segurança e criptografia.</p>
 </div>
 
 <br> <!-- Adicionando um espaçamento entre as divs -->
