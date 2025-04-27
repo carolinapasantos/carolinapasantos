@@ -1,7 +1,3 @@
-<div align="center">
-  Oieeee, Seja Bem Vindo(a), eu sou a Carol!👩🏻‍💻
-</div>
-
 <br> <!-- Adicionando um espaçamento entre as divs -->
 
 <div align="center">
@@ -9,38 +5,22 @@
   
   </div>
 
-<br> <!-- Adicionando um espaçamento entre as divs -->
+# Carolina Santos - Profissional de RH | Tecnologia | Dados
 
-<div align="center"> <!-- Cards das redes sociais -->
-  <a href="https://www.linkedin.com/in/carolinapasantos" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+Com 10 anos de experiência em **Recursos Humanos**, **Tecnologia** e **Dados**, minha trajetória é marcada por uma forte atuação em **Administração de Pessoal**, **Folha de Pagamento**, **Gestão de Jornada** e **Automação de Processos**, sempre com foco em **conformidade legal** e **eficiência operacional**.
 
-<br> <!-- Adicionando um espaçamento entre as divs -->
+## Principais Experiências:
+- 🎯 **Administração de Pessoal**: Folha de Pagamento, Admissão, Demissão, Férias, Afastamentos e Documentos Trabalhistas.
+- 🎯 **Gestão de Jornada**: Experiência com Suricato, Henry Super Fácil e MOAVI Escalas Inteligentes.
+- 🎯 **Implantação de Sistemas**: TOTVS RM Labore (Folha de Pagamento, Automação de Ponto, SST).
+- 📊 **Power BI**: Desenvolvimento de dashboards para apoiar decisões baseadas em dados.
+- 🔄 **Automação de Processos**: Fluxos de admissão digital, buscando agilidade e eficiência.
+- 🔐 **Compliance**: Garantia de adequação à LGPD e compliance trabalhista.
 
-<div> <!-- Texto introdução -->
-  Após anos decidi migrar para a Tecnologia da Informação e estou com foco em Programação de Sistemas e Desenvolvimento Back-End. Atualmente, estou mergulhando em novos conhecimentos e habilidades com o objetivo de me tornar uma profissional completa na área de TI.
-</div>
+## Atualmente:
+Estou cursando **Ciência de Dados** para integrar minha experiência em RH com análise de dados, automação e inteligência de negócios, focando na **transformação digital do RH**.
 
-<br> <!-- Adicionando um espaçamento entre as divs -->
+## Objetivo:
+Ser uma ponte entre **Pessoas** e **Tecnologia**, criando soluções inovadoras e orientadas a resultados, para um RH mais moderno e estratégico.
 
-<div> <!-- Sobre o que estou aprendendo -->
-<p><strong>O que estou aprendendo:</strong></p>
-<p>🗄️ Bancos de Dados: Aprendendo a otimizar, consultar e manter bases de dados com eficiência.</p>
-<p>📊 Ciência de Dados: Explorando análise de dados, modelagem estatística e aprendizado de máquina para extrair insights valiosos.</p>
-<p>🔐 Segurança da Informação: Focando em proteger dados e sistemas contra ameaças cibernéticas, implementando melhores práticas de segurança e criptografia.</p>
-
-  <br> <!-- Adicionando um espaçamento entre as divs -->
-
-<p><strong>O que tenho interesse:</strong></p>
-<p>🛠️ Desenvolvimento de APIs: Focando na criação de interfaces robustas e escaláveis.</p>
-<p>🔄 Automação de Processos: Explorando formas de otimizar tarefas repetitivas e aumentar a produtividade.</p>
-<p>📅 Metodologias Ágeis: Usando abordagens ágeis para entregar soluções rápidas e de qualidade.</p>
-</div>
-
-<br> <!-- Adicionando um espaçamento entre as divs -->
-
-<div align="center"> <!-- Gif -->
-  <img src="https://github.com/user-attachments/assets/e7e5b5ac-54d7-46c5-b44e-6562d1d84e08" alt="PacMan" width="600">
-</div>
+Estou aberta a **conexões** e **novos desafios** nas áreas de **RH Tech**, **People Analytics** e **Transformação Digital**.
