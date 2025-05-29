@@ -15,9 +15,7 @@
 
 🌱 Em transição para projetos de RH Tech, Data Analytics e Transformação Digital.
 
-📚 Sempre aprendendo. Sempre conectando dados e pessoas.
-
-📫 Vamos conversar? Me chama aqui no GitHub ou pelo [LinkedIn](www.linkedin.com/in/carolinapasantos)!
+📚 Sempre aprendendo. Sempre conectando dados e pessoas. Vamos conversar? Me chama aqui no GitHub ou pelo [LinkedIn](www.linkedin.com/in/carolinapasantos)!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinapasantos&layout=compact&theme=cobalt&langs" alt="Top Langs" width="350" style="display: inline-block; margin-right: 20px;" />
