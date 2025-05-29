@@ -10,7 +10,7 @@
 - 📊 Visualização de dados com Power BI
 - 🔁 Automação de processos em RH
 - 📈 People Analytics
-- 🛠️ Integração de sistemas como TOTVS RM, Suricato, MOAVI e Henry
+- 🛠️ Integração de sistemas como TOTVS RM Labore
 - 🔐 Compliance com LGPD e segurança de dados
 
 🌱 Em transição para projetos de RH Tech, Data Analytics e Transformação Digital.
