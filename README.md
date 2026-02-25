@@ -1,23 +1,52 @@
-<br> <!-- Adicionando um espaçamento entre as divs -->
+<br>
 
-# 👋 Olá! Eu sou a Carolina Santos
+# 👋 Olá! Eu sou a Carolina Santos  
 
-🎯 Analista de Dados com +10 anos de experiência em RH, apaixonada por transformar processos humanos em soluções inteligentes e automatizadas.
+🎯 Estudante de Banco de Dados em evolução técnica  
+📊 Construindo minha base sólida em Análise e Estruturação de Dados  
 
-💡 Hoje, combino minha vivência em Administração de Pessoal, Folha de Pagamento e Gestão de Jornada com análise de dados, automação e tecnologia para criar um RH mais eficiente, estratégico e orientado por dados.
+---
 
-🚀 Atualmente estudando Ciência de Dados para aplicar técnicas de:
-- 📊 Visualização de dados com Power BI
-- 🔁 Automação de processos em RH
-- 📈 People Analytics
-- 🛠️ Integração de sistemas TOTVS RM Labore
-- 🔐 Compliance com LGPD e segurança de dados
+## 🚀 Minha transição para Dados
 
-🌱 Em transição para projetos de RH Tech, Data Analytics e Transformação Digital.
+Estou consolidando minha formação técnica na área de Banco de Dados, evoluindo do nível básico para o intermediário em:
 
-📚 Sempre aprendendo. Sempre conectando dados e pessoas. Vamos conversar? Me chama aqui no GitHub ou pelo [LinkedIn](https://www.linkedin.com/in/carolinapasantos/)!
+- SQL e consultas relacionais
+- Modelagem de dados
+- Python para análise (Pandas e manipulação de dados)
+- Tratamento, limpeza e padronização de dados
+- Visualização de dados com Power BI
+- Versionamento com Git
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinapasantos&layout=compact&theme=cobalt&langs" alt="Top Langs" width="350" style="display: inline-block; margin-right: 20px;" />
-  
-  </div>
+Meu foco é entender não apenas como analisar dados, mas como estruturá-los corretamente desde a origem.
+
+---
+
+## 🛠️ O que estou desenvolvendo
+
+🔹 Consultas SQL com JOINs e subqueries  
+🔹 Estruturação de bancos relacionais  
+🔹 Análise Exploratória de Dados (EDA)  
+🔹 Projetos práticos com dados reais  
+🔹 Construção de dashboards analíticos  
+
+---
+
+## 📚 Atualmente aprofundando
+
+- Normalização e modelagem relacional  
+- Performance de consultas  
+- Estruturação de pipelines simples de dados  
+- Boas práticas em organização de código  
+
+---
+
+## 🎯 Objetivo profissional
+
+Atuar como Analista de Dados, contribuindo na organização, análise e transformação de dados em informações estratégicas.
+
+---
+
+📈 Em constante evolução técnica.  
+📊 Dados bem estruturados geram decisões inteligentes.  
+🔗 [LinkedIn](https://www.linkedin.com/in/carolinapasantos/)
