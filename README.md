@@ -1,16 +1,13 @@
-<br>
+# 👋 Olá! Eu sou Carolina Santos
 
-# 👋 Olá! Eu sou a Carolina Santos
-
-🎯 Estudante de Banco de Dados  
-📊 Desenvolvendo minha carreira em Dados com foco em RH e People Analytics
+📊 Desenvolvendo carreira em Dados com foco em RH e People Analytics
 
 ---
 
 ## 📚 Atualmente aprofundando
 
 - SQL
-- Modelagem relacional
+- Modelagem de Dados
 - Python e Pandas
 - Power BI
 - People Analytics
